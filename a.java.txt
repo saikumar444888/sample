@@ -1,0 +1,10 @@
+class Add
+{
+int a=30;
+int b=20;
+public static void main(String[] args)
+{
+Add n=new Add();
+System.out.print(n.x+n.y);
+}
+}
